@@ -12,5 +12,5 @@ class Animal(object):
 
 
 hippo = Animal("Peter", 10)
-hippo.description("May",11)
+slo("May",11)
 ocelot = Animal
