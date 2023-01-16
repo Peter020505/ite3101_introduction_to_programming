@@ -1,13 +1,3 @@
 class Animal(object):
-        def __init__(self, name: str, age: int, is_hungry: bool):
+    def __init__(self, name: str):
         self.name = name
-        self.age = age
-        self.is_hungry = is_hungry
-
-zebra = Animal("Jeffrey", 2, True)
-giraffe = Animal("Bruce", 1, False)
-
-
-print(zebra.name, zebra.age, zebra.is_hungry)
-print(giraffe.name, giraffe.age, giraffe.is_hungry)
-
