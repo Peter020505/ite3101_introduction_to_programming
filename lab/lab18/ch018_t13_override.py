@@ -10,4 +10,6 @@ class Employee(object):
         return hours * 20.00
 
 # Add your code below!
-class
+class PartTimeEmployee(Employee):
+    def calculate_wage(self, hours: int):
+        return super().calculate_wage(hours)()
