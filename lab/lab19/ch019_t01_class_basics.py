@@ -1,3 +1,2 @@
-class ClassName(object):
-    def __init__(Car: str):
-        pass
+class Car(object):
+    pass
