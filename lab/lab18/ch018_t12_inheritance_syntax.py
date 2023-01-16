@@ -6,7 +6,7 @@ class Shape(object):
 
 # Add your Triangle class below!
 class Triangle(Shape):
-    def _init_(side1:int, side2:int, side3:int)
+    def _init_(side1:int, side2:int, side3:int):
     super()._init_(3)
     self.side1 = side1
     self.side2 = side2
