@@ -23,4 +23,4 @@ class ShoppingCart(object):
             print(product + " is not in the cart.")
 
 my_cart = ShoppingCart("IVE Student")
-my_cart.add_item("banana")
+my_cart.add_item("banana",1)
