@@ -1,7 +1,9 @@
 # Class definition
 class Animal(object):
     def __init__(self, name: str, age: int, is_hungry: bool):
-        pass
+         self.name = name
+        self.age = age
+        self.is_hungry = is_hungry
 
     # For initializing our instance objects
     def __init__(self, name: str, age: int, is_hungry: bool):
