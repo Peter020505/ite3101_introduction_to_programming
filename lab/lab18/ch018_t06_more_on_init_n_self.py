@@ -1,6 +1,6 @@
 # Class definition
 class Animal(object):
-    def __init__(self,)
+    def __init__(self, name: str, age: int, is_hungry: bool):
         pass
 
     # For initializing our instance objects
