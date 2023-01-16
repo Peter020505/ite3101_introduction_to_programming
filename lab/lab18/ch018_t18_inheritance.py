@@ -21,4 +21,6 @@ class Equilateral(Triangle):
         super().__init(self.angle, self.angle, self.angle)
 
 test = Equilateral()
-print(test.angle)
+print(test.angle1)
+print(test.angle2)
+print(test.angle3)
