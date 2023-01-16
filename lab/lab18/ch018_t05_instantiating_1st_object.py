@@ -10,5 +10,4 @@ giraffe = Animal("Bruce", 1, False)
 
 print(zebra.name, zebra.age, zebra.is_hungry)
 print(giraffe.name, giraffe.age, giraffe.is_hungry)
-print(panda.name, panda.age, panda.is_hungry)
 
