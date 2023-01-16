@@ -1,8 +1,10 @@
 class Animal(object):
     """Makes cute animals."""
     is_alive = True
-    def __init__(self,):
-        pass
+    health = "good"
+    def __init__(self, name: str, age: int):
+        self.name = name
+        self.age = age
     def __init__(self, name: str, age: int):
         self.name = name
         self.age = age
