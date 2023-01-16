@@ -4,3 +4,4 @@ class Animal(object):
         self.age = age
         self.is_hungry = is_hungry
 
+zebra = Animal()
