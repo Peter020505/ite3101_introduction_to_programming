@@ -16,4 +16,4 @@ sloth = Animal("May",11)
 ocelot = Animal("Joe",12)
 
 hippo.health
-
+sloth.health
