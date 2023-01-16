@@ -6,4 +6,5 @@ class Shape(object):
 
 # Add your Triangle class below!
 class Triangle(Shape)
-    super()._init()
+    super()._init_(3)
+    
