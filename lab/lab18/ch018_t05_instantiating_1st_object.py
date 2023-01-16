@@ -6,7 +6,7 @@ class Animal(object):
 
 zebra = Animal("Jeffrey", 2, True)
 giraffe = Animal("Bruce", 1, False)
-panda = Animal("Chad", 7, True)
+
 
 print(zebra.name, zebra.age, zebra.is_hungry)
 print(giraffe.name, giraffe.age, giraffe.is_hungry)
