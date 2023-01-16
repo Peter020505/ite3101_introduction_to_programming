@@ -2,5 +2,6 @@ class Animal(object):
     def __init__(self, name: str):
         self.name = name
 
+
 zebra = Animal("Jeffrey")
-    print(zebra)
+print(zebra.name)

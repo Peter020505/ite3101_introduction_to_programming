@@ -1,6 +1,7 @@
 # Class definition
 class Animal(object):
-    """Makes cute animals."""
+    def __init__(self) -> None:
+        pass
 
     # For initializing our instance objects
     def __init__(self, name: str, age: int, is_hungry: bool):
