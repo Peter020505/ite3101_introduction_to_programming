@@ -20,4 +20,4 @@ class PartTimeEmployee(Employee):
         return super().calculate_wage(hours)
 
 milton = PartTimeEmployee("milton")
-print(milton.full_time_wage())
+print(milton.full_time_wage(10))
