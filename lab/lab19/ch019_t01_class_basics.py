@@ -1,2 +1,2 @@
 class ClassName(object):
-    def __
+    def __init__
