@@ -16,4 +16,5 @@ print(my_triangle.check_angles())
 
 class Equilateral(Triangle):
     angle = 60
-    
+
+    def
