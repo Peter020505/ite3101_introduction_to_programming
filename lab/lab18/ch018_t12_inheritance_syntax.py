@@ -8,5 +8,5 @@ class Shape(object):
 class Triangle(Shape)
     super()._init_(3)
     self.side1 = side1
-    self.side1 = side1
-    self.side1 = side1
+    self.side2 = side2
+    self.side3 = side3
