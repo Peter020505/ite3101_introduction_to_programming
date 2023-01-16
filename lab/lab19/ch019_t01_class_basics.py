@@ -1,2 +1,2 @@
 class ClassName(object):
-    def 
+    def __
