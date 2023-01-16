@@ -19,4 +19,4 @@ class PartTimeEmployee(Employee):
     def full_time_wage(self, hours: int):
         return super().calculate_wage(hours)
 
-milton
+milton = 
