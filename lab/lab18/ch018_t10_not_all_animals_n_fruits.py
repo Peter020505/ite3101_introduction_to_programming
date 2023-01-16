@@ -21,3 +21,5 @@ class ShoppingCart(object):
             print(product + " removed.")
         else:
             print(product + " is not in the cart.")
+
+my_cart = ShoppingCart("IVE Student")
