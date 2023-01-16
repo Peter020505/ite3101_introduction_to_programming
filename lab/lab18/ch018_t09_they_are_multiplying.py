@@ -13,4 +13,7 @@ class Animal(object):
 
 hippo = Animal("Peter", 10)
 sloth = Animal("May",11)
-ocelot = Animal
+ocelot = Animal("Joe",12)
+
+hippo.health
+
