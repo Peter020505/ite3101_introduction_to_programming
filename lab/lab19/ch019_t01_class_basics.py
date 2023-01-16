@@ -1,2 +1,2 @@
-class ClassName("Car"):
-    
+class ClassName(object):
+    def 
