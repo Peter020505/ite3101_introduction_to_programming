@@ -12,4 +12,4 @@ class Employee(object):
 # Add your code below!
 class PartTimeEmployee(Employee):
     def calculate_wage(self, hours: int):
-        return super().calculate_wage(hours)()
+        calculate_wage(hours)()
