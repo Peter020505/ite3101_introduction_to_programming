@@ -13,4 +13,4 @@ class Employee(object):
 class PartTimeEmployee(Employee):
     def calculate_wage(self, hours: int):
         self.hours = hours
-        return hours = hours
+        return hours * 12.00
