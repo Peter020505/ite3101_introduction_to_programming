@@ -18,3 +18,4 @@ class Equilateral(Triangle):
     angle = 60
 
     def __init__(self):
+        super().__init(self.angle, self.angle)
